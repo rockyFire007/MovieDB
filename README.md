@@ -16,5 +16,4 @@ For any queries related to the project, send an email to amishtp652@hotmail.com 
 
 Current Build: 1.0 <br />
 Project will be updated with a more detailed documentation and more UI Design update. <br />
-
-Next Version update date: 2/12/20 <br />
+<br />
